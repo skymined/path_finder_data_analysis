@@ -2,7 +2,7 @@
 
 
 ## DDA
-<details open>
+<details closed>
 <summary> data_attraction : 관광명소 검색량 </summary>
 
 - 13,600 non-null
@@ -22,7 +22,7 @@
 
 </details>
 
-<details open>
+<details closed>
 <summary> data_concept_search : 월별 관광 테마 검색량 </summary>
 
 |no|Variable|Definition|Key|Dtype|분석가 의견|
@@ -37,7 +37,7 @@
 
 </details>
 
-<details open>
+<details closed>
 <summary> data_consume : 분야별 소비량 </summary>
 
 - 1177 non-null
@@ -53,7 +53,7 @@
 
 </details>
 
-<details open>
+<details closed>
 <summary> data_consume_transition : 소비 유형들의 월별 소비량 </summary>
 
 - 5693 non-null
@@ -70,7 +70,7 @@
 
 </details>
 
-<details open>
+<details closed>
 
 <summary> data_trend_search : 월별 여행 트렌드 검색량 </summary>
 
@@ -88,7 +88,7 @@
 
 </details>
 
-<details open>
+<details closed>
 
 <summary> data_tour_NLP_train : 네이버 블로그 제목 </summary>
 
