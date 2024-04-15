@@ -40,7 +40,7 @@
 <details open>
 <summary> data_consume : 분야별 소비량 </summary>
 
-- 1177개
+- 1177 non-null
 
 |no|Variable|Definition|Key|Dtype|분석가 의견|
 |--|--|--|--|--|--|
@@ -56,7 +56,7 @@
 <details open>
 <summary> data_consume_transition : 소비 유형들의 월별 소비량 </summary>
 
--5693개
+- 5693 non-null
 
 |no|Variable|Definition|Key|Dtype|분석가 의견|
 |--|--|--|--|--|--|
@@ -74,7 +74,7 @@
 
 <summary> data_trend_search : 월별 여행 트렌드 검색량 </summary>
 
-- 4080개
+- 4080 non-null
 
 |no|Variable|Definition|Key|Dtype|분석가 의견|
 |--|--|--|--|--|--|
@@ -92,7 +92,7 @@
 
 <summary> data_tour_NLP_train : 네이버 블로그 제목 </summary>
 
-- 10000개
+- 10000 non-null
 - [라벨링 참고](https://docs.google.com/spreadsheets/d/1WCxhauSWOAOyteTYYRZVgUhpZjO9dhXZ/edit#gid=2013088085)
 
 |no|Variable|Definition|Key|Dtype|분석가 의견|
