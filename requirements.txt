@@ -19,7 +19,6 @@ pymongo
 python-mecab-ko
 pyLDAvis
 
-
 requests
 beautifulsoup4
 lxml

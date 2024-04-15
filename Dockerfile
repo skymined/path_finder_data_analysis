@@ -19,8 +19,8 @@ ENV JAVA_HOME /usr/lib/jvm/java-17-openjdk-amd64
 # 작업 디렉토리 설정
 WORKDIR /app
 
-ARG BRANCH_NAME=hancom_keyword
-ARG DIR_NAME=hancom_keyword
+ARG BRANCH_NAME=sky_data_analysis
+ARG DIR_NAME=sky_data_analysis
 
 # Clone the Git repository. Here we dynamically specify the repository name using the variable defined earlier.
 RUN git clone https://github.com/skymined/study_data_analytics ${DIR_NAME}
