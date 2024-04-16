@@ -123,6 +123,11 @@
 <details closed>
 <summary>각 지역별 여행 검색량과 소비량을 비교 </summary>
 
+<div style="display: flex;">
+    <img src="./pictures/지역별_검색량소비량.png" alt="Image 1" width="45%">
+    <img src="./pictures/지역별_검색대비소비량.png" alt="Image 2" width="45%">
+</div>
+
 ![alt text](./pictures/지역별_검색량소비량.png)
 ![alt text](./pictures/지역별_검색대비소비량.png)
 
