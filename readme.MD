@@ -2,7 +2,7 @@
 
 > AI 이국종 팀이 수집한 데이터를 이용하여 DDA, EDA, CDA, ML의 과정을 수행
 - 수행기간 : 20240415 - 
-
+- 데이터 수집 : [한국관광데이터랩](https://datalab.visitkorea.or.kr/datalab/portal/loc/getAreaDataForm.do?SGG_CD=11#)
 
  ## DDA
 > 데이터 구조를 확인하고 형태를 정리
