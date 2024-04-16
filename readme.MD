@@ -4,7 +4,7 @@
 - 수행기간 : 20240415 - 
 - 데이터 수집 : [한국관광데이터랩](https://datalab.visitkorea.or.kr/datalab/portal/loc/getAreaDataForm.do?SGG_CD=11#)
 
- ## DDA
+ ## 🐋 DDA
 > 데이터 구조를 확인하고 형태를 정리
 
 <details closed>
@@ -112,7 +112,7 @@
 </details>
 
 
-## EDA
+## 🐋 EDA
 <details closed>
 <summary> 데이터 분석 목적</summary>
 
@@ -123,8 +123,10 @@
 <details closed>
 <summary>각 지역별 여행 검색량과 소비량을 비교 </summary>
 
-![alt text](./pictures/지역별_검색량소비량.png)
-![alt text](./pictures/지역별_검색대비소비량.png)
+<div style="display: flex;">
+    <img src="./pictures/지역별_검색량소비량.png" alt="Image 1" width="45%">
+    <img src="./pictures/지역별_검색대비소비량.png" alt="Image 2" width="45%">
+</div>
 
 - 검색량 대비 소비량이 적은 순 : 세종 < 강원 < 인천 < 제주 < 충남 < 전남 < 전북 < 충북 < 경북 < 울산 < 경남 < 부산 < 대전 < 경기 < 대구 < 광주 < 서울
 - 검색량 큰 순 : 경기 > 서울 > 인천 > 강원 > 부산 > 제주 > 충남 > 경북 > 경남 > 충북 > 전남 > 대구 > 전북 > 대전 > 울산 > 광주 > 세종
@@ -169,3 +171,7 @@
 - 검색량이 적을 뿐만 아니라 실제로 소비량이 적기 때문에 '교통편'에 대한 정보가 필요함
 
 </details>
+
+## 🐋 CDA
+
+- 검색량과 소비량의 상관관계 분석
