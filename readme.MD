@@ -4,7 +4,7 @@
 - 수행기간 : 20240415 - 
 - 데이터 수집 : [한국관광데이터랩](https://datalab.visitkorea.or.kr/datalab/portal/loc/getAreaDataForm.do?SGG_CD=11#)
 
- ## DDA
+ ## 🐋 DDA
 > 데이터 구조를 확인하고 형태를 정리
 
 <details closed>
@@ -112,7 +112,7 @@
 </details>
 
 
-## EDA
+## 🐋 EDA
 <details closed>
 <summary> 데이터 분석 목적</summary>
 
