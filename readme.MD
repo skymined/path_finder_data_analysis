@@ -124,8 +124,8 @@
 <summary>각 지역별 여행 검색량과 소비량을 비교 </summary>
 
 <div style="display: flex;">
-    <img src="./pictures/지역별_검색량소비량.png" alt="Image 1" style="width: auto; height: 100vh; flex: 1;">
-    <img src="./pictures/지역별_검색대비소비량.png" alt="Image 2" style="width: auto; height: 100vh; flex: 1;">
+    <img src="./pictures/지역별_검색량소비량.png" alt="Image 1" width="45%">
+    <img src="./pictures/지역별_검색대비소비량.png" alt="Image 2" width="45%">
 </div>
 
 - 검색량 대비 소비량이 적은 순 : 세종 < 강원 < 인천 < 제주 < 충남 < 전남 < 전북 < 충북 < 경북 < 울산 < 경남 < 부산 < 대전 < 경기 < 대구 < 광주 < 서울
