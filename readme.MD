@@ -174,4 +174,8 @@
 
 ## 🐋 CDA
 
-- 검색량과 소비량의 상관관계 분석
+<details closed>
+<summary> 검색량과 소비량의 상관관계 분석 </summary>
+- 두 항목이 비정규분포를 따르므로 spearmanr 이용
+- correlation : 0.78 , p-value = 0.0002 -> 귀무가설 기각
+- 검색량과 소비량은 상관관계가 있다.
